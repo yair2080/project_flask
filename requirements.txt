@@ -1,0 +1,7 @@
+Flask
+requests
+SQLAlchemy
+psycopg2-binary
+alembic
+python-dotenv
+pytest
